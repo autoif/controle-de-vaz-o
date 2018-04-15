@@ -19,8 +19,8 @@ int motorabre [] = {21, 20, 19, 18}; // referente a valula de controle de vazão
 int timer = 10;
 int contador1 = 0;
 int contador2 = 0;
-int passo2 = 420;
-int passo1 = 420;
+int passo2 = 210;
+int passo1 = 210;
 int volta1 = 0;
 int volta2 = 0;
 
